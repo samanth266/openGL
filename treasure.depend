@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1524283093 source:/home/swamy/Documents/TEJU/treasure/main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+
